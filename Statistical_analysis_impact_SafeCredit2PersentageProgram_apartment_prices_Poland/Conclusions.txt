@@ -1,3 +1,13 @@
-Conclusions
-From the results of the analysis we can conclude that the programme ‘Safe Credit 2%’ programme had a significant impact on the price of housing in Poland - prices per square metre increased at a per square metre have increased at a relatively fast pace, compared to the annual growth trends. Multiple regression analysis reveals the impact of specific factors on property price formation and is useful for for research on data of this type, although it would be necessary to improve/expand this model in future research. Repeated measures analysis appropriately applied to data of this form and showed changes in the dependent variable taking into account the time scale. Its results appear to be in line with reality. From the analysis given, we can read that the increase in price per square metre in 2023 compared to 2022 is approximately 6.46 per cent, while the the average percentage increase in price per square metre over the duration of the
-credit programme is 9.74 per cent, which leads to the conclusion, that the investigated credit programme has significantly influenced the increase in housing prices during its during its operation. The increased availability of mortgage loans has contributed to an increase in demand for housing, which has driven up prices in the most desirable locations.
+## Conclusions ##
+From the results of the analysis we can conclude that the programme ‘Safe Credit 2%’ programme had a significant impact 
+on the price of housing in Poland - prices per square metre increased at a per square metre have increased at a relatively 
+fast pace, compared to the annual growth trends. Multiple regression analysis reveals the impact of specific 
+factors on property price formation and is useful for for research on data of this type, although it would be necessary 
+to improve/expand this model in future research. Repeated measures analysis appropriately applied to data of this form and 
+showed changes in the dependent variable taking into account the time scale. Its results appear to be in line with reality. 
+From the analysis given, we can read that the increase in price per square metre in 2023 compared to 2022 
+is approximately 6.46 per cent, while the the average percentage increase in price per square metre over the duration of the
+credit programme is 9.74 per cent, which leads to the conclusion, that the investigated credit programme 
+has significantly influenced the increase in housing prices during its during its operation. 
+The increased availability of mortgage loans has contributed to an increase in demand for housing, 
+which has driven up prices in the most desirable locations.
